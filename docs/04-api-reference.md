@@ -142,6 +142,6 @@ The `spotify.extract_playlist_id` function expects standard Spotify playlist URL
 
 **Evidence:**
 
-- `C:\Users\danil\Documents\GitHub\SpotTransfer\backend\main.py`: API decorators: app.route
+- `backend\main.py`: API decorators: app.route
 
 [⬅ Previous](./03-setup.md) | [🏠 Index](./README.md) | [Next ➡](./05-deployment.md)
